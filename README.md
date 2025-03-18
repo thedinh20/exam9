@@ -1,6 +1,6 @@
-## Họ và tên: Nguyễn Tiến Thanh
-## MSV: 22810310382
+## Họ và tên: Đinh Xuân Thế
+## MSV: 22810310390
 
 ## Kết quả
 
-![ketqua](ketqua.gif)
+![Hinh anh 01](anh1.jpg)
